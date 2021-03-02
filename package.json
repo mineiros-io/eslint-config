@@ -1,5 +1,16 @@
 {
   "name": "@mineirosio/eslint-config-monorepo",
+  "description": "Eslint config presents for Typescript and Vue",
+  "main": "index.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mineiros-io/eslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mineiros-io/eslint-config/issues"
+  },
+  "homepage": "https://github.com/mineiros-io/eslint-config#readme",
   "version": "0.0.0",
   "author": "Mineiros GmbH <hello@mineiros.io> (https://github.com/mineiros-io/)",
   "license": "MIT",

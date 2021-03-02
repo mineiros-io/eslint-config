@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.6](https://github.com/mineiros-io/eslint-config/compare/v0.0.5...v0.0.6) (2021-03-02)
+
+
+### Bug Fixes
+
+* use typescript-eslint plugin ([4d1c683](https://github.com/mineiros-io/eslint-config/commit/4d1c683dcac2b8281457e14860a552f83d23e5b1))
+
+
+
+
+
 ## [0.0.5](https://github.com/mineiros-io/eslint-config/compare/v0.0.4...v0.0.5) (2021-03-02)
 
 

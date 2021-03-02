@@ -1,5 +1,5 @@
 {
-  "name": "@mineiros-io/eslint-config-ts",
+  "name": "@mineiros-io/eslint-config-typescript",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",

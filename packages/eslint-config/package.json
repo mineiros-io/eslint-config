@@ -1,6 +1,6 @@
 {
   "name": "@mineiros/eslint-config",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "keywords": [],
@@ -16,7 +16,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@mineiros/eslint-config-vue": "^0.0.3"
+    "@mineiros/eslint-config-vue": "^0.0.4"
   },
   "devDependencies": {
     "eslint": "^7.11.0"

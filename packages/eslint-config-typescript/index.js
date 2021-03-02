@@ -3,7 +3,7 @@ module.exports = {
   parser: "@typescript-eslint/parser",
   extends: [
     "@mineiros/eslint-config-basic",
-    "plugin:@tescript-eslint/recommended",
+    "plugin:@typescript-eslint/recommended",
   ],
   settings: {
     "import/resolver": {

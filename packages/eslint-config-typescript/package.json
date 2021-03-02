@@ -1,5 +1,5 @@
 {
-  "name": "@mineirosio/eslint-config",
+  "name": "@mineiros/eslint-config-typescript",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,18 @@
   "files": [
     "index.js"
   ],
-  "peerDependencies": {
-    "eslint": ">=7.4.0"
-  },
   "publishConfig": {
     "access": "public"
   },
+  "peerDependencies": {
+    "eslint": ">=7.4.0",
+    "typescript": ">=3.9"
+  },
   "dependencies": {
-    "@mineiros-io/eslint-config-vue": "^0.0.0"
+    "@mineiros/eslint-config-basic": "^0.4.3",
+    "@typescript-eslint/eslint-plugin": "^4.5.0",
+    "@typescript-eslint/parser": "^4.5.0",
+    "eslint-imrosport-resolver-typescript": "^2.4.0"
   },
   "devDependencies": {
     "eslint": "^7.11.0"

@@ -2,8 +2,8 @@ module.exports = {
   plugins: ["@typescript-eslint"],
   parser: "@typescript-eslint/parser",
   extends: [
-    "@mineirosio/eslint-config-basic",
-    "plugin:@typescript-eslint/recommended",
+    "@mineiros/eslint-config-basic",
+    "plugin:@tescript-eslint/recommended",
   ],
   settings: {
     "import/resolver": {

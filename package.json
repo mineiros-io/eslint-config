@@ -1,5 +1,5 @@
 {
-  "name": "@mineirosio/eslint-config-monorepo",
+  "name": "@mineiros/eslint-config-monorepo",
   "description": "Eslint config presents for Typescript and Vue",
   "main": "index.js",
   "dependencies": {},

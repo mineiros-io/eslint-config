@@ -1,0 +1,24 @@
+{
+  "name": "@mineiros/eslint-config",
+  "version": "0.0.6",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Mineiros GmbH <hello@mineiros.io> (https://github.com/mineiros-io/)",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": ">=7.4.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@mineiros/eslint-config-vue": "^0.0.6"
+  },
+  "devDependencies": {
+    "eslint": "^7.11.0"
+  }
+}

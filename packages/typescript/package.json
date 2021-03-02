@@ -1,0 +1,28 @@
+{
+  "name": "@mineiros-io/eslint-config-ts",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Mineiros GmbH <hello@mineiros.io> (https://github.com/mineiros-io/)",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "eslint": ">=7.4.0",
+    "typescript": ">=3.9"
+  },
+  "dependencies": {
+    "@mineiros-io/eslint-config-basic": "^0.4.3",
+    "@typescript-eslint/eslint-plugin": "^4.5.0",
+    "@typescript-eslint/parser": "^4.5.0",
+    "eslint-import-resolver-typescript": "^2.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.11.0"
+  }
+}

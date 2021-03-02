@@ -1,0 +1,18 @@
+{
+  "name": "@mineirosio/eslint-config-monorepo",
+  "version": "0.0.0",
+  "author": "Mineiros GmbH <hello@mineiros.io> (https://github.com/mineiros-io/)",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "preinstall": "npx only-allow pnpm",
+    "lint": "npx eslint --ext .js --fix .",
+    "release": "lerna publish --conventional-commits"
+  },
+  "devDependencies": {
+    "@mineriosio/eslint-config": "*",
+    "eslint": "^7.21.0",
+    "lerna": "^3.22.1",
+    "typescript": "^4.0.0"
+  }
+}

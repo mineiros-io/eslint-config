@@ -1,6 +1,6 @@
 {
   "name": "@mineiros/eslint-config-typescript",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "main": "index.js",
   "keywords": [],
@@ -17,7 +17,7 @@
     "typescript": ">=3.9"
   },
   "dependencies": {
-    "@mineiros/eslint-config-basic": "^0.0.4",
+    "@mineiros/eslint-config-basic": "^0.0.5",
     "@typescript-eslint/eslint-plugin": "^4.5.0",
     "@typescript-eslint/parser": "^4.5.0",
     "eslint-import-resolver-typescript": "^2.4.0"

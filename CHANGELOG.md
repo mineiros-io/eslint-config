@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0](https://github.com/mineiros-io/eslint-config/compare/v0.0.6...v0.1.0) (2021-03-04)
+
+
+### Bug Fixes
+
+* no-debug and no-console should only throw a warning ([cc30980](https://github.com/mineiros-io/eslint-config/commit/cc30980463cf3cfa2a3599b1b430f13ac3dcbe98))
+
+
+### Features
+
+* add prettier to eslint-config-vue ([d915d37](https://github.com/mineiros-io/eslint-config/commit/d915d373caace3b28bc4f937b6cb42ed49dff964))
+
+
+
+
+
 ## [0.0.6](https://github.com/mineiros-io/eslint-config/compare/v0.0.5...v0.0.6) (2021-03-02)
 
 

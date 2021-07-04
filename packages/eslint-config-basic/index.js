@@ -10,7 +10,7 @@ module.exports = {
     "plugin:eslint-comments/recommended",
     "plugin:jsonc/recommended-with-jsonc",
     "plugin:yml/standard",
-  j],
+  ],
   plugins: ["html", "unicorn", "simple-import-sort", "import"],
   settings: {
     "import/resolver": {
@@ -101,6 +101,7 @@ module.exports = {
     "func-call-spacing": ["off", "never"],
     "key-spacing": ["error", { beforeColon: false, afterColon: true }],
     "indent": ["error", 2, { SwitchCase: 1, VariableDeclarator: 1, outerIIFEBody: 1 }],
+    "no-spaced-func": "error",
     "no-restricted-syntax": [
       "error",
       "DebuggerStatement",

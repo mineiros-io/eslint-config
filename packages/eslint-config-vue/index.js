@@ -1,34 +1,34 @@
 module.exports = {
   overrides: [
     {
-      files: ["*.vue"],
-      parser: "vue-eslint-parser",
+      files: ['*.vue'],
+      parser: 'vue-eslint-parser',
       parserOptions: {
-        parser: "@typescript-eslint/parser",
+        parser: '@typescript-eslint/parser',
       },
       rules: {
-        "no-unused-vars": "off",
-        "@typescript-eslint/no-unused-vars": "off",
+        'no-unused-vars': 'off',
+        '@typescript-eslint/no-unused-vars': 'off',
       },
     },
   ],
   extends: [
-    "plugin:vue/vue3-recommended",
-    "@mineiros/eslint-config-typescript",
-    "@vue/prettier",
-    "@vue/prettier/@typescript-eslint"
+    'plugin:vue/vue3-recommended',
+    '@mineiros/eslint-config-typescript',
+    '@vue/prettier',
+    '@vue/prettier/@typescript-eslint'
   ],
-  plugins: ["vue"],
+  plugins: ['vue'],
   rules: {
-    "vue/max-attributes-per-line": ["warn", { singleline: 5 }],
-    "vue/html-self-closing": "off",
-    "vue/component-name-in-template-casing": ["error", "PascalCase"],
-    "vue/component-tags-order": [
-      "error",
+    'vue/max-attributes-per-line': ['warn', { singleline: 5 }],
+    'vue/html-self-closing': 'off',
+    'vue/component-name-in-template-casing': ['error', 'PascalCase'],
+    'vue/component-tags-order': [
+      'error',
       {
-        order: ["template", "script", "style"],
+        order: ['template', 'script', 'style'],
       },
     ],
-    // "vue/no-v-html": "off",
+    // 'vue/no-v-html': 'off',
   },
 }

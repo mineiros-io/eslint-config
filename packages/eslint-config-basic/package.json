@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "keywords": [],
-  "author": "Mineiros GmbH <hello@mineiros.io> (https://github.com/mineios-io/)",
+  "author": "Mineiros GmbH < hello@mineiros.io> (https://github.com/mineios-io/)",
   "license": "MIT",
   "scripts": {
     "lint": "eslint . --config=index.js"

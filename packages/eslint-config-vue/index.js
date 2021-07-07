@@ -1,8 +1,17 @@
 module.exports = {
-  parser: "vue-eslint-parser",
-  parserOptions: {
-    parser: "@typescript-eslint/parser",
-  },
+  overrides: [
+    {
+      files: ["*.vue"],
+      parser: "vue-eslint-parser",
+      parserOptions: {
+        parser: "@typescript-eslint/parser",
+      },
+      rules: {
+        "no-unused-vars": "off",
+        "@typescript-eslint/no-unused-vars": "off",
+      },
+    },
+  ],
   extends: [
     "plugin:vue/vue3-recommended",
     "@mineiros/eslint-config-typescript",
@@ -12,6 +21,7 @@ module.exports = {
   plugins: ["vue"],
   rules: {
     "vue/max-attributes-per-line": ["warn", { singleline: 5 }],
+    "vue/html-self-closing": "off",
     "vue/component-name-in-template-casing": ["error", "PascalCase"],
     "vue/component-tags-order": [
       "error",
@@ -19,5 +29,6 @@ module.exports = {
         order: ["template", "script", "style"],
       },
     ],
+    // "vue/no-v-html": "off",
   },
-};
+}

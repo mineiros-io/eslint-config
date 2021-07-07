@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ["@mineiros/eslint-config-vue"],
+  extends: ['@mineiros/eslint-config-vue'],
 };

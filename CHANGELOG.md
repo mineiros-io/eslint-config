@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/mineiros-io/eslint-config/compare/v0.1.0...v0.3.0) (2021-07-13)
+
+
+### Features
+
+* configure vue parser and allow self closing html tags ([74b0c71](https://github.com/mineiros-io/eslint-config/commit/74b0c713e75553b470ecdf26d532b6ae9074004b))
+* **eslint-config-basic:** set no-useless-escape to warn ([dbb600a](https://github.com/mineiros-io/eslint-config/commit/dbb600a44ddff598e88249357a2d1bfba54bd18c))
+* upgrade rules and remove depricated definitions ([e2a6ac7](https://github.com/mineiros-io/eslint-config/commit/e2a6ac7473c2b52330c500e9447af43340ae9fb1))
+* upgrade rules and remove depricated definitions ([7e0104c](https://github.com/mineiros-io/eslint-config/commit/7e0104cced7bf27b33fff208d32960ddb139f27b))
+
+
+
+
+
 # [0.2.0](https://github.com/mineiros-io/eslint-config/compare/v0.1.0...v0.2.0) (2021-07-04)
 
 

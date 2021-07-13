@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.1](https://github.com/mineiros-io/eslint-config/compare/v0.4.0...v0.4.1) (2021-07-13)
+
+
+### Bug Fixes
+
+* fix broken configuration in eslint-config-basic ([f2bae74](https://github.com/mineiros-io/eslint-config/commit/f2bae74df1d0e0088cb916550465112580d3c97e))
+
+
+
+
+
 # [0.4.0](https://github.com/mineiros-io/eslint-config/compare/v0.1.0...v0.4.0) (2021-07-13)
 
 

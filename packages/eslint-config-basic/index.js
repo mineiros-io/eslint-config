@@ -10,7 +10,6 @@ module.exports = {
     "plugin:eslint-comments/recommended",
     "plugin:jsonc/recommended-with-jsonc",
     "plugin:yml/standard",
-    j,
   ],
   plugins: ["html", "unicorn", "simple-import-sort", "import"],
   settings: {

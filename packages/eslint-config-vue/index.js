@@ -16,7 +16,7 @@ module.exports = {
     'plugin:vue/vue3-recommended',
     '@mineiros/eslint-config-typescript',
     '@vue/prettier',
-    '@vue/prettier/@typescript-eslint'
+    '@vue/prettier/@typescript-eslint',
   ],
   plugins: ['vue'],
   rules: {
@@ -30,5 +30,13 @@ module.exports = {
       },
     ],
     // 'vue/no-v-html': 'off',
+    'prettier/prettier': [
+      'warn',
+      {
+        singleQuote: true,
+        semi: false,
+        trailingComma: 'es5',
+      },
+    ],
   },
 }

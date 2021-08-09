@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/mineiros-io/eslint-config/compare/v0.4.1...v0.5.0) (2021-08-09)
+
+
+### Features
+
+* configure prettier to use single quotes and trailing commas in @mineiros/eslint-config-vue ([edecf3e](https://github.com/mineiros-io/eslint-config/commit/edecf3e5e7ed48373ccaf6ac3e03172e7234618a))
+
+
+
+
+
 ## [0.4.1](https://github.com/mineiros-io/eslint-config/compare/v0.4.0...v0.4.1) (2021-07-13)
 
 **Note:** Version bump only for package @mineiros/eslint-config-vue

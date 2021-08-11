@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.6.0](https://github.com/mineiros-io/eslint-config/compare/v0.5.0...v0.6.0) (2021-08-11)
+
+
+### Features
+
+* change vue/component-tags-order to scrip - template - style ([b35fdce](https://github.com/mineiros-io/eslint-config/commit/b35fdce91ca874b7fd1a969005e31553bd09b59c))
+
+
+
+
+
 # [0.5.0](https://github.com/mineiros-io/eslint-config/compare/v0.4.1...v0.5.0) (2021-08-09)
 
 

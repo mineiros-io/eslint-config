@@ -24,7 +24,7 @@ module.exports = {
     'vue/html-self-closing': 'off',
     'vue/component-name-in-template-casing': ['error', 'PascalCase'],
     'vue/component-tags-order': [
-      'error',
+      'warn',
       {
         order: ['script', 'template', 'style'],
       },

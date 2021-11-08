@@ -6,13 +6,10 @@ module.exports = {
     '@mineiros/eslint-config-basic',
     'plugin:@typescript-eslint/recommended',
   ],
-  settings: {
-    'import/resolver': {
-      typescript: {},
-    },
-  },
   overrides: basic.overrides,
   rules: {
+    'import/named': 'off',
+
     // TS
     'no-useless-constructor': 'off',
     '@typescript-eslint/semi': ['error', 'never'],

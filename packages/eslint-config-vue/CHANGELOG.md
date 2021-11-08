@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.7.0](https://github.com/mineiros-io/eslint-config/compare/v0.6.0...v0.7.0) (2021-11-08)
+
+
+### Features
+
+* **packages/eslint-config-vue:** set vue/component-tags-order to warn ([13bfed3](https://github.com/mineiros-io/eslint-config/commit/13bfed3ca1d2dc1155766307dc461730ca98b6cc))
+* **packages/eslint-config-vue:** update dependencies and rules ([d3eeca7](https://github.com/mineiros-io/eslint-config/commit/d3eeca77652c2759400716e87123c40bc01c10f0))
+
+
+
+
+
 # [0.6.0](https://github.com/mineiros-io/eslint-config/compare/v0.5.0...v0.6.0) (2021-08-11)
 
 

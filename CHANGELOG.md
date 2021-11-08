@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.7.0](https://github.com/mineiros-io/eslint-config/compare/v0.6.0...v0.7.0) (2021-11-08)
+
+
+### Features
+
+* **packages/esint-config-typescript:** upgrade typescript to ^4.4.3 ([d349202](https://github.com/mineiros-io/eslint-config/commit/d349202d5edb480a4ced5cfa6c5059ac0f6a2501))
+* **packages/eslint-config-config:** update dependencies and rules ([7c40b5e](https://github.com/mineiros-io/eslint-config/commit/7c40b5e99e88e9ad79d70c9cc2598e42383eb513))
+* **packages/eslint-config-typescript:** remove resolver, update dependencies and update roles ([4a00397](https://github.com/mineiros-io/eslint-config/commit/4a00397f23aa110a807a0a272e575af5a7b7511e))
+* **packages/eslint-config-vue:** set vue/component-tags-order to warn ([13bfed3](https://github.com/mineiros-io/eslint-config/commit/13bfed3ca1d2dc1155766307dc461730ca98b6cc))
+* **packages/eslint-config-vue:** update dependencies and rules ([d3eeca7](https://github.com/mineiros-io/eslint-config/commit/d3eeca77652c2759400716e87123c40bc01c10f0))
+* **packages/eslint-config:** update dependencies and remove prettier ([354d8f6](https://github.com/mineiros-io/eslint-config/commit/354d8f6b846b65df7458913c24bcfbcbc45401d7))
+
+
+
+
+
 # [0.6.0](https://github.com/mineiros-io/eslint-config/compare/v0.5.0...v0.6.0) (2021-08-11)
 
 

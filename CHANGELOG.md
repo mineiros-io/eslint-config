@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.8.1](https://github.com/mineiros-io/eslint-config/compare/v0.8.0...v0.8.1) (2021-11-09)
+
+
+### Bug Fixes
+
+* **packages/eslint-config-basic:** add missing comma in rule list ([8490fa8](https://github.com/mineiros-io/eslint-config/commit/8490fa8152bac807ba0a02f70a21f31b0d3a28a1))
+
+
+
+
+
 # [0.8.0](https://github.com/mineiros-io/eslint-config/compare/v0.7.0...v0.8.0) (2021-11-09)
 
 

@@ -104,7 +104,7 @@ module.exports = {
     'import/no-mutable-exports': 'error',
     'import/no-unresolved': 'off',
     'import/no-absolute-path': 'off',
-    'simple-import-sort/exports': 'error'
+    'simple-import-sort/exports': 'error',
 
 
     // Common

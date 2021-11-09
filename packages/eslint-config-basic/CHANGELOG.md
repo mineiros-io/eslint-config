@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.8.2](https://github.com/mineiros-io/eslint-config/compare/v0.8.1...v0.8.2) (2021-11-09)
+
+
+### Bug Fixes
+
+* **packages/eslint-config-basic:** add missing simple-import-sort plugin ([44a70a8](https://github.com/mineiros-io/eslint-config/commit/44a70a8dfec95840f9352c0d4c58e559a7fbf2f2))
+
+
+
+
+
 ## [0.8.1](https://github.com/mineiros-io/eslint-config/compare/v0.8.0...v0.8.1) (2021-11-09)
 
 

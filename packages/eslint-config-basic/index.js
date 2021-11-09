@@ -96,7 +96,7 @@ module.exports = {
   ],
   rules: {
     // import
-    'simple-import-sort/sort': 'error',
+    'simple-import-sort/imports': 'error',
     'sort-imports': 'off',
     'import/first': 'error',
     'import/newline-after-import': 'error',
@@ -104,6 +104,7 @@ module.exports = {
     'import/no-mutable-exports': 'error',
     'import/no-unresolved': 'off',
     'import/no-absolute-path': 'off',
+    'simple-import-sort/exports': 'error'
 
 
     // Common

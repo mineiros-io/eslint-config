@@ -14,6 +14,7 @@ module.exports = {
   plugins: [
     'html',
     'unicorn',
+    'simple-import-sort',
   ],
   settings: {
     'import/resolver': {

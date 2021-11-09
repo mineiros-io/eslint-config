@@ -1,6 +1,6 @@
 {
   "name": "@mineiros/eslint-config-vue",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "",
   "keywords": [],
   "license": "MIT",
@@ -16,7 +16,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@mineiros/eslint-config-typescript": "^0.7.0",
+    "@mineiros/eslint-config-typescript": "^0.8.0",
     "eslint-plugin-vue": "7.19.1"
   },
   "devDependencies": {

@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.8.0](https://github.com/mineiros-io/eslint-config/compare/v0.7.0...v0.8.0) (2021-11-09)
+
+
+### Bug Fixes
+
+* **packages/eslint-config-basic:** fix simple-import-sort rules ([0e3c3d5](https://github.com/mineiros-io/eslint-config/commit/0e3c3d53629f09fe1eded13f8f00cbdacf2584d1))
+
+
+### Features
+
+* **packages/eslint-config-basic:** upgrade min version of simple-import-sort to ^6.0.0 ([4f4762a](https://github.com/mineiros-io/eslint-config/commit/4f4762ab8eb5ea7e6a4a59e1ac02545b71453500))
+
+
+
+
+
 # [0.7.0](https://github.com/mineiros-io/eslint-config/compare/v0.6.0...v0.7.0) (2021-11-08)
 
 

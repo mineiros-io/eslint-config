@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.9.0](https://github.com/mineiros-io/eslint-config/compare/v0.8.2...v0.9.0) (2021-11-10)
+
+
+### Features
+
+* **packages/eslint-config-typescript:** bump version of eslint-plugin-vue to v8.0.3 ([b710785](https://github.com/mineiros-io/eslint-config/commit/b7107854403660ead819a0cf74f3d0984bc5d754))
+
+
+
+
+
 ## [0.8.2](https://github.com/mineiros-io/eslint-config/compare/v0.8.1...v0.8.2) (2021-11-09)
 
 

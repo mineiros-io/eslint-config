@@ -105,6 +105,7 @@ module.exports = {
     // import
     'simple-import-sort/imports': 'error',
     'sort-imports': 'off',
+    // 'import/order': 'error',
     'import/first': 'error',
     'import/newline-after-import': 'error',
     'import/no-duplicates': 'error',
@@ -112,7 +113,6 @@ module.exports = {
     'import/no-unresolved': 'off',
     'import/no-absolute-path': 'off',
     'simple-import-sort/exports': 'error',
-
 
     // Common
     'semi': ['error', 'never'],
@@ -126,8 +126,16 @@ module.exports = {
     'block-spacing': ['error', 'always'],
     'camelcase': 'off',
     'comma-spacing': ['error', { before: false, after: true }],
-    'comma-style': ['error', 'last'],
-    'comma-dangle': ['error', 'always-multiline'],
+    'comma-dangle': [
+      'error',
+      {
+        arrays: 'always-multiline',
+        objects: 'always-multiline',
+        imports: 'always-multiline',
+        exports: 'always-multiline',
+        functions: 'never',
+      },
+    ],
     'no-constant-condition': 'warn',
     'no-debugger': 'error',
     'no-console': ['error', { allow: ['warn', 'error'] }],
@@ -205,9 +213,6 @@ module.exports = {
     'require-await': 'off',
     'no-return-assign': 'off',
     'operator-linebreak': ['error', 'before'],
-    'no-use-before-define': ['error', { functions: false, classes: false, variables: true }],
-    'eslint-comments/disable-enable-pair': 'off',
-
 
     // unicorns
     // Pass error message when throwing errors
@@ -234,5 +239,20 @@ module.exports = {
     'unicorn/prefer-type-error': 'error',
     // Use new when throwing error
     'unicorn/throw-new-error': 'error',
+
+    'no-use-before-define': ['error', { functions: false, classes: false, variables: true }],
+    'eslint-comments/disable-enable-pair': 'off',
+    'import/no-named-as-default-member': 'off',
+
+    // 'sort-imports': [
+    //   'error',
+    //   {
+    //     ignoreCase: false,
+    //     ignoreDeclarationSort: true,
+    //     ignoreMemberSort: false,
+    //     memberSyntaxSortOrder: ['none', 'all', 'multiple', 'single'],
+    //     allowSeparatedGroups: false,
+    //   },
+    // ],
   },
 }

@@ -18,11 +18,13 @@ module.exports = {
   ],
   rules: {
     'vue/max-attributes-per-line': ['warn', { singleline: 5 }],
-    'vue/html-self-closing': 'off',
+    // 'vue/html-self-closing': 'off',
     'vue/no-v-html': 'off',
     'vue/component-name-in-template-casing': ['error', 'PascalCase'],
     'vue/require-prop-types': 'off',
     'vue/require-default-prop': 'off',
+    'vue/multi-word-component-names': 'off',
+    'vue/block-tag-newline': 'error',
     'vue/component-tags-order': [
       'warn',
       {

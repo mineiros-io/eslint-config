@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.10.0](https://github.com/mineiros-io/eslint-config/compare/v0.9.0...v0.10.0) (2021-12-20)
+
+
+### Bug Fixes
+
+* spaced comments and disable no-namespace ([4890309](https://github.com/mineiros-io/eslint-config/commit/489030973657dde737ae168ed4290b36f86ce90e))
+
+
+### Features
+
+* add rules for tests ([deb8e9a](https://github.com/mineiros-io/eslint-config/commit/deb8e9a95351c3da14dc50e9566eff97acff3068))
+* add vue/block-tag-newline ([c66e126](https://github.com/mineiros-io/eslint-config/commit/c66e12684c5724c60ce1125c41ef8ba4fc1857a1))
+* adjust comma-dangle rule ([1fc15df](https://github.com/mineiros-io/eslint-config/commit/1fc15df9f89875147851fbb6b3509a7020a58725))
+* disable vue/multi-word-component-names ([db6fed1](https://github.com/mineiros-io/eslint-config/commit/db6fed184347b7336841238ab77c3f9da09ea71a))
+* **packages/eslint-config-vue:** upgrade eslint-plugin-vue to ^8.1.1 ([dafc098](https://github.com/mineiros-io/eslint-config/commit/dafc098d097116baac0adf7f98a46f2143a9503a))
+* remove vue/html-self-closing ([5ba0a54](https://github.com/mineiros-io/eslint-config/commit/5ba0a54abce12ccfe651b3a31f3ab1d3f25e9687))
+
+
+
+
+
 # [0.9.0](https://github.com/mineiros-io/eslint-config/compare/v0.8.2...v0.9.0) (2021-11-10)
 
 

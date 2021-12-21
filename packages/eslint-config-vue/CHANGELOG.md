@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.11.2](https://github.com/mineiros-io/eslint-config/compare/v0.11.1...v0.11.2) (2021-12-21)
+
+
+### Bug Fixes
+
+* correct vue/block-tag-newline rule ([e1d3b3d](https://github.com/mineiros-io/eslint-config/commit/e1d3b3d02524c0bb1a09861684087e7510d5b410))
+
+
+
+
+
 # [0.11.0](https://github.com/mineiros-io/eslint-config/compare/v0.10.0...v0.11.0) (2021-12-21)
 
 

@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.11.0](https://github.com/mineiros-io/eslint-config/compare/v0.10.0...v0.11.0) (2021-12-21)
+
+
+### Features
+
+* add vue/block-tag-newline and vue/padding-line-between-blocks ([d6779a1](https://github.com/mineiros-io/eslint-config/commit/d6779a1fb7603b364df072ba8ef853cf6be27e25))
+
+
+
+
+
 # [0.10.0](https://github.com/mineiros-io/eslint-config/compare/v0.9.0...v0.10.0) (2021-12-20)
 
 

@@ -24,11 +24,7 @@ module.exports = {
     'vue/require-prop-types': 'off',
     'vue/require-default-prop': 'off',
     'vue/multi-word-component-names': 'off',
-      'vue/block-tag-newline': {
-      'singleline': 'always',
-      'multiline': 'always',
-      'maxEmptyLines': 0,
-    },
+    'vue/block-tag-newline': ['error', { 'singleline': 'always', 'multiline': 'always', 'maxEmptyLines': 0 }],
     'vue/padding-line-between-blocks': ['error', 'always'],
     'vue/component-tags-order': [
       'warn',

@@ -21,8 +21,8 @@
   },
   "devDependencies": {
     "@mineiros/eslint-config": "*",
-    "eslint": "^8.5.0",
+    "eslint": "^8.11.0",
     "lerna": "^3.22.1",
-    "typescript": "^4.5.4"
+    "typescript": "^4.6.3"
   }
 }

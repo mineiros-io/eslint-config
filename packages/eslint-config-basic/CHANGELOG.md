@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.12.0](https://github.com/mineiros-io/eslint-config/compare/v0.11.2...v0.12.0) (2022-03-25)
+
+
+### Features
+
+* upgrade eslint-config-basic rules ([b25c800](https://github.com/mineiros-io/eslint-config/commit/b25c8001a7b095cbc04b36de900bfaf0df1cc85f))
+
+
+
+
+
 # [0.11.0](https://github.com/mineiros-io/eslint-config/compare/v0.10.0...v0.11.0) (2021-12-21)
 
 **Note:** Version bump only for package @mineiros/eslint-config-basic

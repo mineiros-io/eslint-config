@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.12.0](https://github.com/mineiros-io/eslint-config/compare/v0.11.2...v0.12.0) (2022-03-25)
+
+
+### Features
+
+* add more typescript rules ([b6bfd92](https://github.com/mineiros-io/eslint-config/commit/b6bfd922c4abdd54ae715b8f43518b7cef0349e2))
+* update eslint-config-typescript rules ([a12b0a8](https://github.com/mineiros-io/eslint-config/commit/a12b0a81ff09c10e757291a8a6992ccb17b00cd4))
+
+
+
+
+
 # [0.11.0](https://github.com/mineiros-io/eslint-config/compare/v0.10.0...v0.11.0) (2021-12-21)
 
 **Note:** Version bump only for package @mineiros/eslint-config-typescript

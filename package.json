@@ -1,6 +1,10 @@
 {
   "name": "@mineiros/eslint-config-monorepo",
   "description": "Eslint config presents for Typescript and Vue",
+  "version": "0.0.0",
+  "private": true,
+  "license": "MIT",
+  "author": "Mineiros GmbH <hello@mineiros.io> (https://github.com/mineiros-io/)",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -10,13 +14,9 @@
     "url": "https://github.com/mineiros-io/eslint-config/issues"
   },
   "homepage": "https://github.com/mineiros-io/eslint-config#readme",
-  "version": "0.0.0",
-  "author": "Mineiros GmbH <hello@mineiros.io> (https://github.com/mineiros-io/)",
-  "license": "MIT",
-  "private": true,
   "scripts": {
     "preinstall": "npx only-allow pnpm",
-    "lint": "npx eslint --ext .js --fix .",
+    "lint": "eslint .",
     "release": "lerna publish --conventional-commits"
   },
   "devDependencies": {

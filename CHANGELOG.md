@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.13.1](https://github.com/mineiros-io/eslint-config/compare/v0.13.0...v0.13.1) (2022-03-26)
+
+
+### Bug Fixes
+
+* match @typescript-eslint/comma-dangle and comma-dangle rules ([58eee80](https://github.com/mineiros-io/eslint-config/commit/58eee806849badadbed3d3e23f81c3da2aeca762))
+
+
+
+
+
 # [0.13.0](https://github.com/mineiros-io/eslint-config/compare/v0.12.0...v0.13.0) (2022-03-26)
 
 

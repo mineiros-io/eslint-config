@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.14.0](https://github.com/mineiros-io/eslint-config/compare/v0.13.1...v0.14.0) (2022-03-26)
+
+
+### Features
+
+* disable yml/quotes for markdown ([86ca584](https://github.com/mineiros-io/eslint-config/commit/86ca5846006699bfeeb8f5fa57aa2d280c71ef84))
+
+
+
+
+
 ## [0.13.1](https://github.com/mineiros-io/eslint-config/compare/v0.13.0...v0.13.1) (2022-03-26)
 
 **Note:** Version bump only for package @mineiros/eslint-config-basic

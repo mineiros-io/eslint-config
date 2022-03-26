@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.13.0](https://github.com/mineiros-io/eslint-config/compare/v0.12.0...v0.13.0) (2022-03-26)
+
+
+### Features
+
+* always enforce last comma ([514768f](https://github.com/mineiros-io/eslint-config/commit/514768f99cc2f58d1b229ece307358d7cc62e18c))
+
+
+
+
+
 # [0.12.0](https://github.com/mineiros-io/eslint-config/compare/v0.11.2...v0.12.0) (2022-03-25)
 
 

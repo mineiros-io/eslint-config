@@ -170,7 +170,7 @@ module.exports = {
     'block-spacing': ['error', 'always'],
     'camelcase': 'off',
     'comma-spacing': ['error', { before: false, after: true }],
-    // 'comma-style': ['error', 'last'],
+    'comma-style': ['error', 'last'],
     'comma-dangle': [
       'error',
       {
